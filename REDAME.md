@@ -1,13 +1,21 @@
-# About the Project
+# Financial Inclusion and Bank Health: A State-Level Analytical Study Using RBI Statistics  
 
-## `Title:` Financial Inclusion and Bank Health: A State-Level Analytical Study Using RBI Statistics
+**Author:** `Vivek Ranjan` `Gurjot Kaur`   
 
-## Background and Motivation
+**Meet Vivek Ranjan**  
+**Email Id:** vivekranjan21639@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/vivek-ranjan-jnu/
+
+**Meet Gurjot Kaur**  
+**Email Id:** gurjotk276@gmail.com  
+**LinkedIn:** https://in.linkedin.com/in/gurjot-kaur-a16641281
+
+## About the Project 
 Financial inclusion has been a central pillar of India’s financial sector policy over the past decade, with sustained efforts aimed at expanding banking access, deepening credit penetration, and integrating underserved regions into the formal financial system. Alongside inclusion, the stability and soundness of the banking system remain core priorities for the Reserve Bank of India, particularly from a supervisory perspective.
 
 While national-level indicators show significant progress in banking outreach, regional disparities across Indian states remain substantial. States differ widely in branch density, deposit mobilisation, credit penetration, and sectoral composition of lending. These differences have implications not only for inclusion outcomes but also for regional credit dynamics, balance-sheet behaviour, and potential supervisory concerns.
 
-From a Department of Supervision (DoS) standpoint, understanding how financial inclusion interacts with basic indicators of bank health at the regional level is critical for:
+Understanding how financial inclusion interacts with basic indicators of bank health at the regional level is critical for:
 - Identifying structurally under-banked regions,
 - Interpreting persistently low or high credit–deposit (CD) ratios,
 - Assessing whether inclusion is translating into balanced and sustainable credit growth.
