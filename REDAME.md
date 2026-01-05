@@ -59,7 +59,32 @@ This project seeks to address this gap by conducting a state-level analytical st
 - Inclusion_Index
 
 
-## Outcome
+## Results and Interpretation
 
-## Conclusion
+#### 1. Financial Inclusion across Indian States  
+The analysis reveals substantial variation in financial inclusion across Indian states. States ranking higher on the composite inclusion index consistently exhibit higher branch density, deposit mobilisation, and credit penetration. Conversely, a group of states remains persistently low across all three dimensions, indicating structural inclusion deficits rather than temporary shortfalls.
+
+Notably, branch density alone does not ensure financial deepening. Several states with relatively dense banking infrastructure continue to display low credit per capita, suggesting limited translation of access into effective usage.
+
+#### 2. Bank Balance-Sheet Behaviour and CD Ratios  
+State-wise credit–deposit ratios display pronounced dispersion. A number of states exhibit CD ratios below 60 per cent, reflecting under-utilisation of local deposits, while others show ratios exceeding 90 per cent, indicating relatively aggressive credit deployment.
+
+Differences between CD ratios based on place of sanction and place of utilisation further reveal inter-state credit flows. Negative CD gaps in several states suggest that deposits mobilised locally are deployed elsewhere, whereas positive gaps indicate net inflow of credit.
+
+#### 3. Financial Inclusion and Credit Deployment  
+The relationship between financial inclusion and bank lending is non-linear. While higher inclusion is generally associated with greater credit penetration, several states demonstrate high inclusion accompanied by moderate or low CD ratios. This pattern points towards conservative lending behaviour or weak credit demand despite adequate banking outreach.
+
+After accounting for income levels, inclusion continues to explain variation in credit outcomes, highlighting the independent role of banking infrastructure and engagement.
+
+#### 4. Credit Structure and Sectoral Concentration  
+Sectoral analysis shows that credit portfolios differ markedly across states. In several states, agriculture accounts for a dominant share of bank credit, while others are heavily skewed towards industrial or retail lending. States with high credit concentration indices are potentially more vulnerable to sector-specific shocks.
+
+These structural differences underline the importance of contextualising CD ratios and credit growth with underlying credit composition.
+
+#### 5. Development, Inclusion, and Structural Gaps  
+The state typology based on income and inclusion reveals four distinct groups. While high-income–high-inclusion states represent mature banking ecosystems, the presence of high-income–low-inclusion states indicates structural banking gaps unrelated to economic capacity. Conversely, some low-income states have achieved relatively higher inclusion, reflecting successful outreach efforts.
+
+#### 6. Supervisory and Policy Implications  
+From a supervisory perspective, states characterised by persistently low CD ratios despite adequate branch presence may warrant closer examination of credit demand and lending practices. States with very high CD ratios combined with concentrated credit exposure may require careful monitoring to assess sustainability. The findings underscore the need for regionally differentiated supervisory and policy responses rather than uniform benchmarks.
+
  
